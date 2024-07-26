@@ -1,4 +1,3 @@
-मला नवीन  car साठी शुभेच्छा दिल्याबद्दल धन्यवाद.#include<conio.h>
 
 #include<iostream.h>
 
